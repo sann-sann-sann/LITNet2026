@@ -1,5 +1,0 @@
-# LITNet dependencies - Compatible with Python 3.13
-torch>=2.2.0
-numpy>=1.26.0
-torchvision>=0.17.0
-ptflops>=0.7.0
